@@ -1,0 +1,2313 @@
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+www.tesla.com	canonical name = www.tesla.com.edgekey.net.
+www.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+3.tesla.com	canonical name = 3.tesla.com.edgekey.net.
+3.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-automation.tesla.com	canonical name = akamai-apigateway-automation.tesla.com.edgekey.net.
+akamai-apigateway-automation.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-bender.tesla.com	canonical name = akamai-apigateway-bender.tesla.com.edgekey.net.
+akamai-apigateway-bender.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-captiveunderwriting.tesla.com	canonical name = akamai-apigateway-captiveunderwriting.tesla.com.edgekey.net.
+akamai-apigateway-captiveunderwriting.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find akamai-apigateway-crawford-prd.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find akamai-apigateway-crawford-stg.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-deliveryopsapi.tesla.com	canonical name = akamai-apigateway-deliveryopsapi.tesla.com.edgekey.net.
+akamai-apigateway-deliveryopsapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-deliveryopsapi1.tesla.com	canonical name = akamai-apigateway-deliveryopsapi1.tesla.com.edgekey.net.
+akamai-apigateway-deliveryopsapi1.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-dev-warptmsapiserver.tesla.com	canonical name = akamai-apigateway-dev-warptmsapiserver.tesla.com.edgekey.net.
+akamai-apigateway-dev-warptmsapiserver.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-einvoicing.tesla.com	canonical name = akamai-apigateway-einvoicing.tesla.com.edgekey.net.
+akamai-apigateway-einvoicing.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-finplat-prd.tesla.com	canonical name = akamai-apigateway-finplat-prd.tesla.com.edgekey.net.
+akamai-apigateway-finplat-prd.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-finplateng.tesla.com	canonical name = akamai-apigateway-finplateng.tesla.com.edgekey.net.
+akamai-apigateway-finplateng.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-finplateng-routeone.tesla.com	canonical name = akamai-apigateway-finplateng-routeone.tesla.com.edgekey.net.
+akamai-apigateway-finplateng-routeone.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-fta.tesla.com	canonical name = akamai-apigateway-fta.tesla.com.edgekey.net.
+akamai-apigateway-fta.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-inventorytxnextapi.tesla.com	canonical name = akamai-apigateway-inventorytxnextapi.tesla.com.edgekey.net.
+akamai-apigateway-inventorytxnextapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-logisticsratesapi.tesla.com	canonical name = akamai-apigateway-logisticsratesapi.tesla.com.edgekey.net.
+akamai-apigateway-logisticsratesapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-materials.tesla.com	canonical name = akamai-apigateway-materials.tesla.com.edgekey.net.
+akamai-apigateway-materials.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-mfs-supplier.tesla.com	canonical name = akamai-apigateway-mfs-supplier.tesla.com.edgekey.net.
+akamai-apigateway-mfs-supplier.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-ops-warp3pl.tesla.com	canonical name = akamai-apigateway-ops-warp3pl.tesla.com.edgekey.net.
+akamai-apigateway-ops-warp3pl.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-ownershipsvc.tesla.com	canonical name = akamai-apigateway-ownershipsvc.tesla.com.edgekey.net.
+akamai-apigateway-ownershipsvc.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-payment.tesla.com	canonical name = akamai-apigateway-payment.tesla.com.edgekey.net.
+akamai-apigateway-payment.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-prd-global-deliveryopsapi.tesla.com	canonical name = akamai-apigateway-deliveryopsapi.tesla.com.edgekey.net.
+akamai-apigateway-deliveryopsapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-procuretopayapi.tesla.com	canonical name = akamai-apigateway-procuretopayapi.tesla.com.edgekey.net.
+akamai-apigateway-procuretopayapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-profileapi.tesla.com	canonical name = akamai-apigateway-profileapi.tesla.com.edgekey.net.
+akamai-apigateway-profileapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-qa-captiveunderwriting.tesla.com	canonical name = akamai-apigateway-qa-captiveunderwriting.tesla.com.edgekey.net.
+akamai-apigateway-qa-captiveunderwriting.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-scraprecycle.tesla.com	canonical name = akamai-apigateway-scraprecycle.tesla.com.edgekey.net.
+akamai-apigateway-scraprecycle.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-shipmentplanningapi.tesla.com	canonical name = akamai-apigateway-shipmentplanningapi.tesla.com.edgekey.net.
+akamai-apigateway-shipmentplanningapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-bender.tesla.com	canonical name = akamai-apigateway-stg-bender.tesla.com.edgekey.net.
+akamai-apigateway-stg-bender.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-captiveunderwriting.tesla.com	canonical name = akamai-apigateway-stg-captiveunderwriting.tesla.com.edgekey.net.
+akamai-apigateway-stg-captiveunderwriting.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-deliveryopsapi.tesla.com	canonical name = akamai-apigateway-stg-deliveryopsapi.tesla.com.edgekey.net.
+akamai-apigateway-stg-deliveryopsapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-deliveryopsapi1.tesla.com	canonical name = akamai-apigateway-stg-deliveryopsapi1.tesla.com.edgekey.net.
+akamai-apigateway-stg-deliveryopsapi1.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-finplateng-defi.tesla.com	canonical name = akamai-apigateway-stg-finplateng-defi.tesla.com.edgekey.net.
+akamai-apigateway-stg-finplateng-defi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-finplateng-routeone.tesla.com	canonical name = akamai-apigateway-stg-finplateng-routeone.tesla.com.edgekey.net.
+akamai-apigateway-stg-finplateng-routeone.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-fta.tesla.com	canonical name = akamai-apigateway-stg-fta.tesla.com.edgekey.net.
+akamai-apigateway-stg-fta.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-ops-warp3pl.tesla.com	canonical name = akamai-apigateway-stg-ops-warp3pl.tesla.com.edgekey.net.
+akamai-apigateway-stg-ops-warp3pl.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-packaging2.tesla.com	canonical name = akamai-apigateway-stg-packaging2.tesla.com.edgekey.net.
+akamai-apigateway-stg-packaging2.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-payment.tesla.com	canonical name = akamai-apigateway-stg-payment.tesla.com.edgekey.net.
+akamai-apigateway-stg-payment.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-procuretopayapi.tesla.com	canonical name = akamai-apigateway-stg-procuretopayapi.tesla.com.edgekey.net.
+akamai-apigateway-stg-procuretopayapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-sandbox-automation.tesla.com	canonical name = akamai-apigateway-stg-sandbox-automation.tesla.com.edgekey.net.
+akamai-apigateway-stg-sandbox-automation.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-shipmentplanningapi.tesla.com	canonical name = akamai-apigateway-stg-shipmentplanningapi.tesla.com.edgekey.net.
+akamai-apigateway-stg-shipmentplanningapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-teslarpsapi.tesla.com	canonical name = akamai-apigateway-stg-teslarpsapi.tesla.com.edgekey.net.
+akamai-apigateway-stg-teslarpsapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-translationpipeline.tesla.com	canonical name = akamai-apigateway-stg-translationpipeline.tesla.com.edgekey.net.
+akamai-apigateway-stg-translationpipeline.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-vendorpartsapi.tesla.com	canonical name = akamai-apigateway-stg-vendorpartsapi.tesla.com.edgekey.net.
+akamai-apigateway-stg-vendorpartsapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-warp3pl.tesla.com	canonical name = akamai-apigateway-stg-warp3pl.tesla.com.edgekey.net.
+akamai-apigateway-stg-warp3pl.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-warpdashboardapi.tesla.com	canonical name = akamai-apigateway-stg-warpdashboardapi.tesla.com.edgekey.net.
+akamai-apigateway-stg-warpdashboardapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-warpedi.tesla.com	canonical name = akamai-apigateway-stg-warpedi.tesla.com.edgekey.net.
+akamai-apigateway-stg-warpedi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-warptmsapiserver.tesla.com	canonical name = akamai-apigateway-stg-warptmsapiserver.tesla.com.edgekey.net.
+akamai-apigateway-stg-warptmsapiserver.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg-warptqpapi.tesla.com	canonical name = akamai-apigateway-stg-warptqpapi.tesla.com.edgekey.net.
+akamai-apigateway-stg-warptqpapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-stg2-global-deliveryopsapi.tesla.com	canonical name = akamai-apigateway-stg2-deliveryopsapi.tesla.com.edgekey.net.
+akamai-apigateway-stg2-deliveryopsapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-teslaservice-api.tesla.com	canonical name = akamai-apigateway-teslaservice-api.tesla.com.edgekey.net.
+akamai-apigateway-teslaservice-api.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-translationpipeline.tesla.com	canonical name = akamai-apigateway-translationpipeline.tesla.com.edgekey.net.
+akamai-apigateway-translationpipeline.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-uat-materials.tesla.com	canonical name = akamai-apigateway-uat-materials.tesla.com.edgekey.net.
+akamai-apigateway-uat-materials.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com	canonical name = akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com.edgekey.net.
+akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-vfx.tesla.com	canonical name = akamai-apigateway-vfx.tesla.com.edgekey.net.
+akamai-apigateway-vfx.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-warp3pl.tesla.com	canonical name = akamai-apigateway-warp3pl.tesla.com.edgekey.net.
+akamai-apigateway-warp3pl.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-warpcxml.tesla.com	canonical name = akamai-apigateway-warpcxml.tesla.com.edgekey.net.
+akamai-apigateway-warpcxml.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-warpdashboardapi.tesla.com	canonical name = akamai-apigateway-warpdashboardapi.tesla.com.edgekey.net.
+akamai-apigateway-warpdashboardapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-warpedi.tesla.com	canonical name = akamai-apigateway-warpedi.tesla.com.edgekey.net.
+akamai-apigateway-warpedi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-warptmsapiserver.tesla.com	canonical name = akamai-apigateway-warptmsapiserver.tesla.com.edgekey.net.
+akamai-apigateway-warptmsapiserver.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-warptmsapiserver-upgrade.tesla.com	canonical name = akamai-apigateway-warptmsapiserver-upgrade.tesla.com.edgekey.net.
+akamai-apigateway-warptmsapiserver-upgrade.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+akamai-apigateway-warptqpapi.tesla.com	canonical name = akamai-apigateway-warptqpapi.tesla.com.edgekey.net.
+akamai-apigateway-warptqpapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find apac-sso.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+api-firebolt.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+api-firebolt-dev.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find appplayer.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+apps.tesla.com	canonical name = apps.tesla.com.edgekey.net.
+apps.tesla.com.edgekey.net	canonical name = e1792.x.akamaiedge.net.
+Name:	e1792.x.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+aurora-ordering-ext-qa.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+aurora-ordering-ext-stg.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+auth.tesla.com	canonical name = auth.tesla.com.edgekey.net.
+auth.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+auth-global.tesla.com	canonical name = auth-global.tesla.com.edgekey.net.
+auth-global.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+auth-global-stage.tesla.com	canonical name = auth-global-stage.tesla.com.edgekey.net.
+auth-global-stage.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+autodiscover.tesla.com	canonical name = autodiscover.outlook.com.
+autodiscover.outlook.com	canonical name = autod.ha-autod.office.com.
+autod.ha-autod.office.com	canonical name = autod.ms-acdc-autod.office.com.
+Name:	autod.ms-acdc-autod.office.com
+Address: 52.98.95.216
+Name:	autod.ms-acdc-autod.office.com
+Address: 52.98.61.56
+Name:	autod.ms-acdc-autod.office.com
+Address: 52.98.61.40
+Name:	autod.ms-acdc-autod.office.com
+Address: 52.98.32.8
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find awsbtest.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find bctpay.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find bender-auth.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find beta-partners.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+billing.tesla.com	canonical name = billing.tesla.com.edgekey.net.
+billing.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find blog.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+bolt.tesla.com	canonical name = akamai-apigateway-bolt-forms.tesla.com.edgekey.net.
+akamai-apigateway-bolt-forms.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+business-ui-ownership.tesla.com	canonical name = business-ui-ownership.tesla.com.edgekey.net.
+business-ui-ownership.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+cdn-design.tesla.com	canonical name = cdn-design.tesla.com.edgekey.net.
+cdn-design.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+checkout-ui-assets.tesla.com	canonical name = checkout-ui-assets.tesla.com.edgekey.net.
+checkout-ui-assets.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+cicerone.tesla.com	canonical name = cicerone.tesla.com-v1.edgekey.net.
+cicerone.tesla.com-v1.edgekey.net	canonical name = e1792.x.akamaiedge.net.
+Name:	e1792.x.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+cld-ec.tesla.com	canonical name = cld-ec.tesla.com.edgekey.net.
+cld-ec.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+cloudprotect.tesla.com	canonical name = tesla.gpcloudservice.com.
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	cnvpn.tesla.com
+Address: 103.222.41.215
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	comparison.tesla.com
+Address: 64.125.183.133
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+courses.tesla.com	canonical name = courses.tesla.com.edgekey.net.
+courses.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find crpt.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find cryptopay2.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	darkfield.tesla.com
+Address: 209.133.79.47
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+dataviz.tesla.com	canonical name = ipa.teslazta.net.srip.net.
+ipa.teslazta.net.srip.net	canonical name = srip1552.globalredir.akadns.net.
+srip1552.globalredir.akadns.net	canonical name = a1552.srip1.akasrip.net.ad93a312.1.cn.akasripcn.net.
+Name:	a1552.srip1.akasrip.net.ad93a312.1.cn.akasripcn.net
+Address: 92.122.231.192
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+digitalassets.tesla.com	canonical name = digitalassets.tesla.com.multicdn.cloudinary.com.
+digitalassets.tesla.com.multicdn.cloudinary.com	canonical name = 2-01-49b5-0696.cdx.cedexis.net.
+2-01-49b5-0696.cdx.cedexis.net	canonical name = s2-cloudinary-pin-sni.map.fastly.net.
+Name:	s2-cloudinary-pin-sni.map.fastly.net
+Address: 199.232.46.92
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+digitalassets-energy.tesla.com	canonical name = digitalassets-energy.tesla.com.multicdn.cloudinary.com.
+digitalassets-energy.tesla.com.multicdn.cloudinary.com	canonical name = 2-01-49b5-00c1.cdx.cedexis.net.
+2-01-49b5-00c1.cdx.cedexis.net	canonical name = cloudinary-pin-sni.map.fastly.net.
+Name:	cloudinary-pin-sni.map.fastly.net
+Address: 199.232.46.1
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+digitalassets-learning.tesla.com	canonical name = digitalassets-learning.tesla.com.multicdn.cloudinary.com.
+digitalassets-learning.tesla.com.multicdn.cloudinary.com	canonical name = 2-01-49b5-00c1.cdx.cedexis.net.
+2-01-49b5-00c1.cdx.cedexis.net	canonical name = cloudinary-pin-sni.map.fastly.net.
+Name:	cloudinary-pin-sni.map.fastly.net
+Address: 199.232.46.1
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+digitalassets-shop.tesla.com	canonical name = digitalassets-shop.tesla.com.multicdn.cloudinary.com.
+digitalassets-shop.tesla.com.multicdn.cloudinary.com	canonical name = 2-01-49b5-0668.cdx.cedexis.net.
+2-01-49b5-0668.cdx.cedexis.net	canonical name = s5-cloudinary-pin-sni.map.fastly.net.
+Name:	s5-cloudinary-pin-sni.map.fastly.net
+Address: 199.232.46.92
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+eaa-setup.tesla.com	canonical name = ipa.teslazta.net.srip.net.
+ipa.teslazta.net.srip.net	canonical name = srip1552.globalredir.akadns.net.
+srip1552.globalredir.akadns.net	canonical name = a1552.srip1.akasrip.net.ad93a312.1.cn.akasripcn.net.
+Name:	a1552.srip1.akasrip.net.ad93a312.1.cn.akasripcn.net
+Address: 92.122.231.192
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find edgedns.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+edr.tesla.com	canonical name = edr.tesla.com-v1.edgekey.net.
+edr.tesla.com-v1.edgekey.net	canonical name = e1792.x.akamaiedge.net.
+Name:	e1792.x.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+ehs.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+einvoicing.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find email.tesla.com: No answer
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+click.email.tesla.com	canonical name = click.virt.s7.exacttarget.com.
+click.virt.s7.exacttarget.com	canonical name = click.exacttarget.com.mdc.edgesuite.net.
+click.exacttarget.com.mdc.edgesuite.net	canonical name = a1467.b.akamai.net.
+Name:	a1467.b.akamai.net
+Address: 111.119.162.56
+Name:	a1467.b.akamai.net
+Address: 111.119.162.42
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+image.email.tesla.com	canonical name = image.s7.exacttarget.com.edgesuite.net.
+image.s7.exacttarget.com.edgesuite.net	canonical name = a629.g.akamai.net.
+Name:	a629.g.akamai.net
+Address: 110.93.229.210
+Name:	a629.g.akamai.net
+Address: 110.93.229.209
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	mta.email.tesla.com
+Address: 13.111.14.190
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	mta2.email.tesla.com
+Address: 13.111.4.231
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+pages.email.tesla.com	canonical name = pages.virt.s7.exacttarget.com.
+Name:	pages.virt.s7.exacttarget.com
+Address: 136.147.129.25
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+view.email.tesla.com	canonical name = view.virt.s7.exacttarget.com.
+Name:	view.virt.s7.exacttarget.com
+Address: 136.147.129.32
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	email1.tesla.com
+Address: 192.28.144.15
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	click.emails.tesla.com
+Address: 13.111.48.179
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+image.emails.tesla.com	canonical name = image-emails.tesla.com.
+image-emails.tesla.com	canonical name = image-emails.tesla.com.edgekey.net.
+image-emails.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	mta.emails.tesla.com
+Address: 13.111.62.118
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	mta2.emails.tesla.com
+Address: 13.111.88.1
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	mta3.emails.tesla.com
+Address: 13.111.88.2
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	mta4.emails.tesla.com
+Address: 13.111.88.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	mta5.emails.tesla.com
+Address: 13.111.88.53
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	view.emails.tesla.com
+Address: 13.111.49.179
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+employeefeedback.tesla.com	canonical name = teslahr.vanity3.ca1.qualtrics.com.
+teslahr.vanity3.ca1.qualtrics.com	canonical name = akamaisecure3.qualtrics.com.edgekey.net.
+akamaisecure3.qualtrics.com.edgekey.net	canonical name = e9056.b.akamaiedge.net.
+Name:	e9056.b.akamaiedge.net
+Address: 23.66.150.121
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+powerhub.energy.tesla.com	canonical name = powerhub.sn.tesla.services.
+powerhub.sn.tesla.services	canonical name = energy.tesla.com.edgekey.net.
+energy.tesla.com.edgekey.net	canonical name = e7882.dscx.akamaiedge.net.
+Name:	e7882.dscx.akamaiedge.net
+Address: 23.37.182.159
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+autobidder.powerhub.energy.tesla.com	canonical name = energy.tesla.com.edgekey.net.
+energy.tesla.com.edgekey.net	canonical name = e7882.dscx.akamaiedge.net.
+Name:	e7882.dscx.akamaiedge.net
+Address: 23.37.182.159
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+energydesk.tesla.com	canonical name = desk.cs.zohohost.com.
+Name:	desk.cs.zohohost.com
+Address: 136.143.190.74
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+energysupport.tesla.com	canonical name = desk.cs.zohohost.com.
+Name:	desk.cs.zohohost.com
+Address: 136.143.190.74
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+engage.tesla.com	canonical name = dtw7dea2t4fea.cloudfront.net.
+Name:	dtw7dea2t4fea.cloudfront.net
+Address: 52.222.144.7
+Name:	dtw7dea2t4fea.cloudfront.net
+Address: 52.222.144.89
+Name:	dtw7dea2t4fea.cloudfront.net
+Address: 52.222.144.81
+Name:	dtw7dea2t4fea.cloudfront.net
+Address: 52.222.144.21
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+envoy-finplat-stg.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+envoy-partnerleadsharing.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+envoy-partnertasks.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+epc.tesla.com	canonical name = epc.tesla.com.edgekey.net.
+epc.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+epcapi.tesla.com	canonical name = epcapi.tesla.com.edgekey.net.
+epcapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+errlog.tesla.com	canonical name = errlog.tesla.com.edgekey.net.
+errlog.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+error-log.tesla.com	canonical name = error-log.tesla.com.edgekey.net.
+error-log.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	events.tesla.com
+Address: 13.111.47.195
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	external-3pl-stg.tesla.com
+Address: 199.66.9.66
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+feedback.tesla.com	canonical name = teslamotors.vanity3.ca1.qualtrics.com.
+teslamotors.vanity3.ca1.qualtrics.com	canonical name = akamaisecure3.qualtrics.com.edgekey.net.
+akamaisecure3.qualtrics.com.edgekey.net	canonical name = e9056.b.akamaiedge.net.
+Name:	e9056.b.akamaiedge.net
+Address: 23.66.150.121
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	financial-gw.tesla.com
+Address: 199.66.9.77
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+financial-gw-stg.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+finops.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+forums.tesla.com	canonical name = site-6030136.onvanilla.net.
+Name:	site-6030136.onvanilla.net
+Address: 162.159.128.79
+Name:	site-6030136.onvanilla.net
+Address: 162.159.138.78
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find gf-modeling-mpp.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+grid.tesla.com	canonical name = grid.tesla.com.edgekey.net.
+grid.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+hub.tesla.com	canonical name = ipa.teslazta.net.srip.net.
+ipa.teslazta.net.srip.net	canonical name = srip1552.globalredir.akadns.net.
+srip1552.globalredir.akadns.net	canonical name = a1552.srip1.akasrip.net.ad93a312.1.cn.akasripcn.net.
+Name:	a1552.srip1.akasrip.net.ad93a312.1.cn.akasripcn.net
+Address: 92.122.231.192
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+image-emails.tesla.com	canonical name = image-emails.tesla.com.edgekey.net.
+image-emails.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find imap.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+inside.tesla.com	canonical name = inside.tesla.com.edgekey.net.
+inside.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+installations-ext-api.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+inventory-assets.tesla.com	canonical name = inventory-assets.tesla.com.edgekey.net.
+inventory-assets.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+invest.tesla.com	canonical name = invest.tesla.com.edgekey.net.
+invest.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+ir.tesla.com	canonical name = ir.tesla.com.edgekey.net.
+ir.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	itanswers.tesla.com
+Address: 204.74.99.100
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+link.tesla.com	canonical name = link.tesla.com.edgekey.net.
+link.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	o1.ptr2410.link.tesla.com
+Address: 149.72.247.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+links.tesla.com	canonical name = links.tesla.com.edgekey.net.
+links.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find lionpayshare.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find lionpaytest.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+livestream.tesla.com	canonical name = livestream.tesla.com-v1.edgekey.net.
+livestream.tesla.com-v1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+livestreamapi.tesla.com	canonical name = livestreamapi.tesla.com.edgekey.net.
+livestreamapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+livestreamapi-test.tesla.com	canonical name = livestreamapi-test.tesla.com.edgekey.net.
+livestreamapi-test.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+location-services-prd.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+logcollection.tesla.com	canonical name = logcollection.tesla.com.edgekey.net.
+logcollection.tesla.com.edgekey.net	canonical name = e1792.x.akamaiedge.net.
+Name:	e1792.x.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find lyncdiscover.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	marketing.tesla.com
+Address: 13.111.47.196
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+meet.tesla.com	canonical name = group301.tesla.com.akadns.net.
+Name:	group301.tesla.com.akadns.net
+Address: 205.234.27.221
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+mfa.tesla.com	canonical name = mfa.tesla.com.edgekey.net.
+mfa.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+mfa-reset.tesla.com	canonical name = mfa-reset.tesla.com.edgekey.net.
+mfa-reset.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	mfamobile-dev.tesla.com
+Address: 205.234.27.209
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	mfauser-dev.tesla.com
+Address: 205.234.27.209
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+mfs-supplier.tesla.com	canonical name = mfs-supplier.tesla.com.edgekey.net.
+mfs-supplier.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+mfs-supplier-uat.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+mobile.tesla.com	canonical name = mobile.tesla.com.edgekey.net.
+mobile.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	model3.tesla.com
+Address: 205.234.27.221
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	monitoring.tesla.com
+Address: 92.122.231.192
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	mrsproxy06.tesla.com
+Address: 209.11.133.58
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+myapps.tesla.com	canonical name = myapps.tesla.com.edgekey.net.
+myapps.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find na-1-sso.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find na-2-sso.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find na-sso.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+onboard.tesla.com	canonical name = inside.tesla.com.edgekey.net.
+inside.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find oneteam.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	origin-apps.tesla.com
+Address: 209.133.79.43
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-assets-teslaaccount-ownership-ownership.tesla.com	canonical name = origin-assets-teslaaccount-ownership-ownership.tesla.com.edgekey.net.
+origin-assets-teslaaccount-ownership-ownership.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 23.195.60.96
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-auth.tesla.com	canonical name = clsiamp.tesla.com.akadns.net.
+Name:	clsiamp.tesla.com.akadns.net
+Address: 62.67.197.148
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-bolt.tesla.com	canonical name = clsmdcegyp.tesla.com.akadns.net.
+Name:	clsmdcegyp.tesla.com.akadns.net
+Address: 8.244.67.139
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	origin-courses.tesla.com
+Address: 199.66.9.87
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-edr.tesla.com	canonical name = clsgenp.tesla.com.akadns.net.
+Name:	clsgenp.tesla.com.akadns.net
+Address: 8.244.67.149
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-einvoicing.tesla.com	canonical name = clswarpp.tesla.com.akadns.net.
+Name:	clswarpp.tesla.com.akadns.net
+Address: 199.120.53.144
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-financialgateway-stg.tesla.com	canonical name = clsfins.tesla.com.akadns.net.
+Name:	clsfins.tesla.com.akadns.net
+Address: 8.244.67.145
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-grid.tesla.com	canonical name = clsegyp.tesla.com.akadns.net.
+Name:	clsegyp.tesla.com.akadns.net
+Address: 8.244.67.139
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-inside.tesla.com	canonical name = clsmdcwarpp.tesla.com.akadns.net.
+Name:	clsmdcwarpp.tesla.com.akadns.net
+Address: 199.120.53.144
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find origin-itanswers.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-mfa.tesla.com	canonical name = clsmdciamp.tesla.com.akadns.net.
+Name:	clsmdciamp.tesla.com.akadns.net
+Address: 62.67.197.148
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	origin-mobile.tesla.com
+Address: 209.133.79.82
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-ownership.tesla.com	canonical name = origin-ownership.tesla.com.akadns.net.
+Name:	origin-ownership.tesla.com.akadns.net
+Address: 62.67.197.131
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find origin-pilotbpay.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-profile.tesla.com	canonical name = clsmdcwarpp.tesla.com.akadns.net.
+Name:	clsmdcwarpp.tesla.com.akadns.net
+Address: 199.120.53.144
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-ranger-api.tesla.com	canonical name = clsmdcgenp.tesla.com.akadns.net.
+Name:	clsmdcgenp.tesla.com.akadns.net
+Address: 8.244.67.147
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find origin-referral-app.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-slingsdlc.tesla.com	canonical name = origin-slingsdlc.teslamotors.com.
+Name:	origin-slingsdlc.teslamotors.com
+Address: 209.133.79.98
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	origin-sso.tesla.com
+Address: 199.66.9.79
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-tcc-gw.tesla.com	canonical name = clsmdcservicep.tesla.com.akadns.net.
+Name:	clsmdcservicep.tesla.com.akadns.net
+Address: 199.120.51.204
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-tcc-gw-stg.tesla.com	canonical name = clsservices.tesla.com.akadns.net.
+Name:	clsservices.tesla.com.akadns.net
+Address: 199.120.51.202
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find origin-toolbox-beta.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-warp.tesla.com	canonical name = clsmdcwarpp.tesla.com.akadns.net.
+Name:	clsmdcwarpp.tesla.com.akadns.net
+Address: 199.120.53.144
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-warp-stg.tesla.com	canonical name = clswarps.tesla.com.akadns.net.
+Name:	clswarps.tesla.com.akadns.net
+Address: 199.120.53.143
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-www.tesla.com	canonical name = digitalhome.tesla.com.akadns.net.
+Name:	digitalhome.tesla.com.akadns.net
+Address: 199.66.11.55
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-www-auth.tesla.com	canonical name = digitalsso.tesla.com.akadns.net.
+Name:	digitalsso.tesla.com.akadns.net
+Address: 209.133.79.56
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+origin-wwwcdn.tesla.com	canonical name = digitalhome.tesla.com.akadns.net.
+Name:	digitalhome.tesla.com.akadns.net
+Address: 199.66.11.55
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+os.tesla.com	canonical name = os.tesla.com.edgekey.net.
+os.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+ownership.tesla.com	canonical name = ownership.tesla.com.edgekey.net.
+ownership.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+partnerleadsharing.tesla.com	canonical name = global-static-assets.tesla.com.akadns.net.
+Name:	global-static-assets.tesla.com.akadns.net
+Address: 199.120.48.200
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+partners.tesla.com	canonical name = partners.tesla.com.edgekey.net.
+partners.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+pay.tesla.com	canonical name = static-assets-pay.tesla.com-v1.edgekey.net.
+static-assets-pay.tesla.com-v1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find pilot-bpay.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+pm-bounces.tesla.com	canonical name = pm.mtasv.net.
+Name:	pm.mtasv.net
+Address: 138.197.30.54
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find pop.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find powerwall.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find productinfo.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+profile.tesla.com	canonical name = profile.tesla.com.edgekey.net.
+profile.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	o3.ptr1444.tesla.com
+Address: 149.72.152.236
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	o4.ptr1867.tesla.com
+Address: 149.72.163.58
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	o2.ptr556.tesla.com
+Address: 149.72.134.64
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	o7.ptr6980.tesla.com
+Address: 149.72.144.42
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	o5.ptr8466.tesla.com
+Address: 149.72.172.170
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	o6.ptr9437.tesla.com
+Address: 168.245.123.10
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+reassignment-ui.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	referral.tesla.com
+Address: 72.10.32.90
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find referral-app.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+repair.tesla.com	canonical name = repair.tesla.com.edgekey.net.
+repair.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+sales-prd.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+schedule.tesla.com	canonical name = schedule.tesla.com.edgekey.net.
+schedule.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+secure-static-assets.tesla.com	canonical name = secure-static-assets.tesla.com.edgekey.net.
+secure-static-assets.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	secureguest.tesla.com
+Address: 209.133.79.94
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	secureguestcn.tesla.com
+Address: 211.147.80.227
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find server.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+service.tesla.com	canonical name = service.tesla.com.edgekey.net.
+service.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+serviceapi.tesla.com	canonical name = serviceapi.tesla.com-v1.edgekey.net.
+serviceapi.tesla.com-v1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+serviceapi-stg.tesla.com	canonical name = serviceapi-stg.tesla.com.edgekey.net.
+serviceapi-stg.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+share.tesla.com	canonical name = group301.tesla.com.akadns.net.
+Name:	group301.tesla.com.akadns.net
+Address: 205.234.27.221
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+shop.tesla.com	canonical name = shop.tesla.com.edgekey.net.
+shop.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	simpleorigin.tesla.com
+Address: 199.66.9.44
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+sip.tesla.com	canonical name = sipdir.online.lync.com.
+Name:	sipdir.online.lync.com
+Address: 52.113.64.147
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find sjc04d1rsaap02.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find smtp.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+sso.tesla.com	canonical name = tslaso.edgekey.net.
+tslaso.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+sso-dev.tesla.com	canonical name = sso-dev.edgekey.net.
+sso-dev.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+sspr.tesla.com	canonical name = sspr.tesla.com.edgekey.net.
+sspr.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+stage-traffic-flow-test.tesla.com	canonical name = stage-traffic-flow-test.tesla.com.edgekey.net.
+stage-traffic-flow-test.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+static-assets.tesla.com	canonical name = static-assets.tesla.com.edgekey.net.
+static-assets.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+static-assets-pay.tesla.com	canonical name = static-assets-pay.tesla.com-v1.edgekey.net.
+static-assets-pay.tesla.com-v1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+static-assets-profile-settings.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+static-assets-teslaaccount.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find static-event-dev.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+static-map.tesla.com	canonical name = static-map-626194.edgekey.net.
+static-map-626194.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	staticpay-origin-wwwcdn.tesla.com
+Address: 209.133.79.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+stg-uc-twilio-bpm-webhook.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+suppliers.tesla.com	canonical name = suppliers.tesla.com.edgekey.net.
+suppliers.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+suppliers-stg.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+tcc-gw.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+teamchat.tesla.com	canonical name = teamchat.tesla.com.edgekey.net.
+teamchat.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+teslacdpna0.tesla.com	canonical name = teslacdpna0.cloudapp.net.
+Name:	teslacdpna0.cloudapp.net
+Address: 104.42.180.142
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+teslatequila.tesla.com	canonical name = dpogjzntmndbt.cloudfront.net.
+Name:	dpogjzntmndbt.cloudfront.net
+Address: 18.155.68.64
+Name:	dpogjzntmndbt.cloudfront.net
+Address: 18.155.68.101
+Name:	dpogjzntmndbt.cloudfront.net
+Address: 18.155.68.121
+Name:	dpogjzntmndbt.cloudfront.net
+Address: 18.155.68.117
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+three.tesla.com	canonical name = three.tesla.com.edgekey.net.
+three.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+toolbox.tesla.com	canonical name = toolbox.tesla.com.edgekey.net.
+toolbox.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find tradein.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+tradepartnertickets.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+trt.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find tweventhook.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+uicrashtracer.tesla.com	canonical name = uicrashtracer.tesla.com.edgekey.net.
+uicrashtracer.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+url1894.tesla.com	canonical name = sendgrid.net.
+Name:	sendgrid.net
+Address: 167.89.123.54
+Name:	sendgrid.net
+Address: 167.89.115.56
+Name:	sendgrid.net
+Address: 167.89.115.120
+Name:	sendgrid.net
+Address: 167.89.123.124
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+url2547.tesla.com	canonical name = sendgrid.net.
+Name:	sendgrid.net
+Address: 167.89.123.124
+Name:	sendgrid.net
+Address: 167.89.123.54
+Name:	sendgrid.net
+Address: 167.89.115.56
+Name:	sendgrid.net
+Address: 167.89.115.120
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+url4104.tesla.com	canonical name = sendgrid.net.
+Name:	sendgrid.net
+Address: 167.89.115.56
+Name:	sendgrid.net
+Address: 167.89.115.120
+Name:	sendgrid.net
+Address: 167.89.123.124
+Name:	sendgrid.net
+Address: 167.89.123.54
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+url5196.tesla.com	canonical name = sendgrid.net.
+Name:	sendgrid.net
+Address: 167.89.115.56
+Name:	sendgrid.net
+Address: 167.89.123.54
+Name:	sendgrid.net
+Address: 167.89.123.124
+Name:	sendgrid.net
+Address: 167.89.115.120
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+url7051.tesla.com	canonical name = url7051.tesla.com.edgekey.net.
+url7051.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+vmanage-alerts.tesla.com	canonical name = external-na-pop1.edgekey.net.
+external-na-pop1.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
+Name:	e1792.dscx.akamaiedge.net
+Address: 92.122.2.52
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	vpn1.tesla.com
+Address: 8.45.124.215
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	vpn2.tesla.com
+Address: 8.47.24.215
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+warehouse.tesla.com	canonical name = warehouse.tesla.com.edgekey.net.
+warehouse.tesla.com.edgekey.net	canonical name = e1792.dscb.akamaiedge.net.
+Name:	e1792.dscb.akamaiedge.net
+Address: 184.31.28.88
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+** server can't find webmail.tesla.com: NXDOMAIN
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	www-static-stage.tesla.com
+Address: 199.66.9.47
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	xapps.tesla.com
+Address: 204.74.99.100
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	xmail.tesla.com
+Address: 204.74.99.100
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+zta-setup.tesla.com	canonical name = eaa-teslazero-cn-rdp.teslamotors.com.srip.net.
+eaa-teslazero-cn-rdp.teslamotors.com.srip.net	canonical name = srip1555.globalredir.akadns.net.
+srip1555.globalredir.akadns.net	canonical name = a1555.srip1.akasrip.net.73c1340d.1.cn.akasripcn.net.
+Name:	a1555.srip1.akasrip.net.73c1340d.1.cn.akasripcn.net
+Address: 92.122.231.195
+
